@@ -1,4 +1,5 @@
 # Stanford-machine-learning-ex6
+Support vector machines and building spam classifier
 
 **languages used**
 Octave
